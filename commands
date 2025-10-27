@@ -1,2 +1,0 @@
-setx GROQ_API_KEY "your_grok_key"
-streamlit run main.py
